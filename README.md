@@ -1,7 +1,7 @@
 # GitHub-Practice
 
 1. Clone this repo to RStudio: File > New Project > Version Control > Git, and copy and paste the URL.
-2. Open github-practice.Rmd.
+2. Open github-practice.Rmd
 
 ## Resolving Push Error
 
